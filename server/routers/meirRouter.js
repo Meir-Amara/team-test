@@ -3,4 +3,4 @@ const router = express.Router();
 
 router.get("/meir",(req,res)=>res.json({name: "meir amara"}))
 
-module.exports=router
+module.exports = router
